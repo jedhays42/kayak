@@ -8,7 +8,7 @@ Je vais utiliser :
 ## des API pourla météo 
 
 ## scrapper Booking.com.
-Company's description 📇
+# Company's description 📇
 Kayak is a travel search engine that helps user plan their next trip at the best price.
 
 The company was founded in 2004 by Steve Hafner & Paul M. English. After a few rounds of fundraising, Kayak was acquired by Booking Holdings which now holds:
